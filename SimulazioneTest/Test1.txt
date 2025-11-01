@@ -1,0 +1,71 @@
+Scrivete un programma che stampi a schermo una piramide di cifre casuali (numeri tra 0 e 9 compresi). L'utilizzatore del programma dovrà poter definire la dimensione della piramide, specificando il numero di elementi della base. Il programma dovrà verificare che il numero intero specificato sia positivo e dispari e richiedere l'eventuale immissione di un nuovo numero qualora non lo sia. Assumete che il tipo di dato inserito dall'utente sia corretto.
+
+Esempio di piramide:
+
+      2
+    3 9 2
+  5 6 0 2 6
+6 3 4 8 2 3 5
+
++++
+
+Scrivete un programma che richieda all'utente l'immissione di alcuni valori che possono essere degli interi, dei numeri in virgola mobile o delle stringhe.
+
+La quantità di valori da inserire viene richiesta all'utente. Questa deve essere compresa tra 5 e 12. Se non lo è il programma mostra un messaggio di errore e termina.
+
+Se invece la quantità inserita è valida, l'utente ha la possibilità di inserire i valori desiderati che possono essere degli interi, dei numeri in virgola mobile o delle parole.
+
+Il programma deve:
+
+
+calcolare e mostrare la somma e la media dei valori interi inseriti
+calcolare e mostrare la somma dei valori in virgola mobile inseriti
+creare e visualizzare una stringa composta dalle prime tre lettere di ogni parola inserita, separando ogni stringa con il carattere '-'
+Importante: 
+
+
+l'output prodotto dal programma dovrà essere simile a quello mostrato più sotto (in grassetto l'inserimento fatto dall'utente),
+fate in modo che il vostro programma sia il più robusto possibile, ad esempio verificando il tipo di dato inserito.
+
+sempio di output 1:
+
+Quanti valori vuoi inserire? ciao
+Serve un intero. Riprova: -5
+Il numero di valori inserito non e' valido. Il programma termina!
+
+Esempio di output 2:
+
+Quanti valori vuoi inserire? 7
+Valore 1: 1.22
+Valore 2: 3
+Valore 3: fondamenti
+Valore 4: di
+Valore 5: 4
+Valore 6: 5.55
+Valore 7: informatica
+
+Stringa finale: fon-di-inf
+Somma interi: 7
+Media interi: 3.5
+Somma double: 6.77
+
+
++++
+
+Scrivete un programma che aiuti l’utente a calcolare il tempo necessario per lo scaricamento di un file basandosi sulla dimensione dello stesso e la velocità di download dell’utente.
+
+L’utente immette la dimensione del file d in megabyte (MB) e la velocità di download v in megabit al secondo (Mbps).
+
+Successivamente il programma dovrà calcolare il tempo di download T in minuti utilizzando la formula seguente:
+
+T = 1/60 * ((d * 8) / v)
+
+
+Assicuratevi che i valori introdotti dall'utente siano sensati. Nel caso in cui non lo fossero, l'utente deve poter reinserire le informazioni che risultano essere errate.
+
+Sviluppate due versioni del programma: una che per i calcoli utilizzi solo tipi di dato interi, l’altra che utilizzi solo numeri e operatori in virgola mobile.
+
+Testate le due versioni del programma con i seguenti valori: d = 10 e v = 7. C’è una differenza? Qual è? Perché? Rispondete a queste domande in un commento all’interno del programma della versione che utilizza valori in virgola mobile.
+
+Importante: date per scontato che il tipo di dato inserito dall'utente sia corretto.
+

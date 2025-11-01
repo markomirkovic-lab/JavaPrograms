@@ -1,0 +1,6 @@
+d .\nbproject
+d .\src
+f .\build.xml
+f .\manifest.mf
+d .\questo di sicuro è un errore
+f .\anche questo

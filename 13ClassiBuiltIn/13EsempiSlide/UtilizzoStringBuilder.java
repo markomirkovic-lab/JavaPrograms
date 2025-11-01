@@ -1,0 +1,17 @@
+public class UtilizzoStringBuilder {
+    public static void main(String[] args) {
+        StringBuilder builder = new StringBuilder();
+
+        for (char c = 'a'; c <= 'z'; c++)//confonta il valore int in unicode
+            builder.append(c);
+        String stringa = builder.toString();
+        System.out.println("Stringa: " + stringa);
+        //Stringa: abcdefghijklmnopqrstuvwxyz
+
+        for (int i = 0; i < stringa.length(); i++) {
+            System.out.print(((int) stringa.charAt(i)) + " ");
+        }
+        // 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 
+        // 114 115 116 117 118 119 120 121 122
+    }
+}

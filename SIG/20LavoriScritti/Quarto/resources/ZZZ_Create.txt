@@ -1,0 +1,5 @@
+.\resources\a.txt f
+.\resources\b.txt f
+.\resources\c d
+.\resources\d d
+.\resources\f.txt f
