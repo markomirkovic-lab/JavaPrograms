@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01BasiDiInformatica/01BasiDiInformatica.iml" filepath="$PROJECT_DIR$/01BasiDiInformatica/01BasiDiInformatica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02PrimiProgrammi/02PrimiProgrammi.iml" filepath="$PROJECT_DIR$/02PrimiProgrammi/02PrimiProgrammi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04TipoDiDato/03Serie/03Serie.iml" filepath="$PROJECT_DIR$/04TipoDiDato/03Serie/03Serie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06IstruzioniDiControllo/04Serie/04Serie.iml" filepath="$PROJECT_DIR$/06IstruzioniDiControllo/04Serie/04Serie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04TipoDiDato/04TipoDiDato.iml" filepath="$PROJECT_DIR$/04TipoDiDato/04TipoDiDato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/05PrimiPassi/05PrimiPassi.iml" filepath="$PROJECT_DIR$/SIG/05PrimiPassi/05PrimiPassi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06IstruzioniDiControllo/05Serie/05Serie.iml" filepath="$PROJECT_DIR$/06IstruzioniDiControllo/05Serie/05Serie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06IstruzioniDiControllo/06IstruzioniDiControllo.iml" filepath="$PROJECT_DIR$/06IstruzioniDiControllo/06IstruzioniDiControllo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/06MagazzinoDelComputer/06MagazzinoDelComputer.iml" filepath="$PROJECT_DIR$/SIG/06MagazzinoDelComputer/06MagazzinoDelComputer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/07InputOutputCasting/07InputOutputCasting.iml" filepath="$PROJECT_DIR$/SIG/07InputOutputCasting/07InputOutputCasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07JavaKara/07JavaKara.iml" filepath="$PROJECT_DIR$/07JavaKara/07JavaKara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Array/08Array.iml" filepath="$PROJECT_DIR$/08Array/08Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/08Operatori/08Operatori.iml" filepath="$PROJECT_DIR$/SIG/08Operatori/08Operatori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Enumerativi/09Enumerativi.iml" filepath="$PROJECT_DIR$/09Enumerativi/09Enumerativi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/09Operatori/09Operatori.iml" filepath="$PROJECT_DIR$/SIG/09Operatori/09Operatori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/10Cicli/10Cicli.iml" filepath="$PROJECT_DIR$/SIG/10Cicli/10Cicli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10SottoProgrammi/10SottoProgrammi.iml" filepath="$PROJECT_DIR$/10SottoProgrammi/10SottoProgrammi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/11Array/11Array.iml" filepath="$PROJECT_DIR$/SIG/11Array/11Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11Ricorsione/11Ricorsione.iml" filepath="$PROJECT_DIR$/11Ricorsione/11Ricorsione.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12OggettiConfrontoCopiaAltro/12OggettiConfrontoCopiaAltro.iml" filepath="$PROJECT_DIR$/12OggettiConfrontoCopiaAltro/12OggettiConfrontoCopiaAltro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12OggettiDefinireNuviTipiDiDato/12OggettiDefinireNuviTipiDiDato.iml" filepath="$PROJECT_DIR$/12OggettiDefinireNuviTipiDiDato/12OggettiDefinireNuviTipiDiDato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12OggettiMetodi/12OggettiMetodi.iml" filepath="$PROJECT_DIR$/12OggettiMetodi/12OggettiMetodi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ClassiBuiltIn/13ClassiBuiltIn.iml" filepath="$PROJECT_DIR$/13ClassiBuiltIn/13ClassiBuiltIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14BasiProgAdOggetti/14BasiProgAdOggetti.iml" filepath="$PROJECT_DIR$/14BasiProgAdOggetti/14BasiProgAdOggetti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14OggettiQuartaParte/14OggettiQuartaParte.iml" filepath="$PROJECT_DIR$/14OggettiQuartaParte/14OggettiQuartaParte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/20Laboratori/20Laboratori.iml" filepath="$PROJECT_DIR$/SIG/20Laboratori/20Laboratori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/20LavoriScritti/20LavoriScritti.iml" filepath="$PROJECT_DIR$/SIG/20LavoriScritti/20LavoriScritti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02PrimiProgrammi/2Serie/2Serie.iml" filepath="$PROJECT_DIR$/02PrimiProgrammi/2Serie/2Serie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14OggettiQuartaParte/EsempiSlide/EsempiSlide.iml" filepath="$PROJECT_DIR$/14OggettiQuartaParte/EsempiSlide/EsempiSlide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eserciziario/Eserciziario.iml" filepath="$PROJECT_DIR$/Eserciziario/Eserciziario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrograms.iml" filepath="$PROJECT_DIR$/JavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIG/SIG.iml" filepath="$PROJECT_DIR$/SIG/SIG.iml" />
+    </modules>
+  </component>
+</project>

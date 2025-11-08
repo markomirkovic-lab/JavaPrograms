@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/05ntroduzioneAlleClassi" isTestSource="false" packagePrefix="IntroduzioneAlleClassi" />
+      <sourceFolder url="file://$MODULE_DIR$/06CicliImbricati" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12Biblioteca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-Serie-11-Oggetti seconda parte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13Serie-10-Oggetti-prima-parte" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13SoluzioneEsercitazione_DateAndTime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mini-progetto1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Misc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SelfTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimulazioneTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestItinere2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestRecupero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tutoring" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
